@@ -11,9 +11,10 @@
 
 群聊
 ![群聊](http://blog.misakamiko.com/practice_socket.png)
-----
+
 私聊
 ![私聊](http://blog.misakamiko.com/private_message.png)
-----
+
 强制下线
 ![强制下线](http://blog.misakamiko.com/log_out.png)
+
