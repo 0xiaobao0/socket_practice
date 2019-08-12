@@ -4,3 +4,5 @@
 运行演示：
 ![群聊](http://blog.misakamiko.com/practice_socket.png)
 
+![私聊](http://blog.misakamiko.com/private_message.png)
+
